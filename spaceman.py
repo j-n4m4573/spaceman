@@ -56,12 +56,3 @@ def gameEngine():
 
 gameEngine()
 # chooseLetter()
-
-# grab index of letter and place spaces around it
-# _ _ s _ _ _
-# hold the position of the correct letters and display the on the screen
-
-# when an index is chosen reveal the letter in a formated string
-# array holding revealed letters and blank spots for the indexes without the
-# the numbers revealed
-# how can we turn spaces into letters and non spaces into blank spaces
